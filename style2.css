@@ -1,0 +1,43 @@
+body{
+	background: #FFA07A;
+	font-size: 125%;
+	margin: 4%;
+}
+header{
+	background: #DC143C;
+	text-align: center;
+	padding: 15px;
+}
+h1{
+	color: #000000;
+}
+nav{
+	font-variant: small-caps;
+	font-size: 150%;
+	font-family: Arial,serif;
+
+}
+h2{
+	background: #BA55D3;
+	color: #800080;
+}
+section{
+	width: 28%;
+	display: inline-block;
+	float: left;
+	margin: 2%;
+}
+details{
+	font-style: italic;
+	
+}
+summary{
+	font-size: normal;
+}
+footer{
+	clear: both;
+	background: #CD5C5C;
+}
+img{
+	width: 125px;
+}
